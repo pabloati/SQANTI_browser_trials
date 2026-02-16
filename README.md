@@ -1,13 +1,13 @@
-# 06_SQ_browser_m39_SQANTI3_Hub
+# 06_SQ_browser_mm39_SQANTI3_Hub
 
-This hub displays SQANTI3 transcriptome analysis results for the m39 genome assembly.
+This hub displays SQANTI3 transcriptome analysis results for the mm39 genome assembly.
 
 ## 🚀 Usage Instructions
 
 1. Upload all files in this directory to a web-accessible location (e.g., GitHub).
 2. In the UCSC Genome Browser, go to **My Data → Track Hubs**.
 3. Enter the URL to your `hub.txt` file.
-4. Select the appropriate genome assembly (m39).
+4. Select the appropriate genome assembly (mm39).
 5. The SQANTI3 tracks will appear in your track list.
 
 ## 🔍 Advanced Filtering

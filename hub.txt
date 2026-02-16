@@ -1,6 +1,6 @@
-hub 06_SQ_browser_m39_SQANTI3_Hub
-shortLabel 06_SQ_browser_m39_SQANTI3_Hub
-longLabel SQANTI3 Transcriptome Analysis for m39
+hub 06_SQ_browser_mm39_SQANTI3_Hub
+shortLabel 06_SQ_browser_mm39_SQANTI3_Hub
+longLabel SQANTI3 Transcriptome Analysis for mm39
 genomesFile genomes.txt
 email sqanti3_user@users.noreply.github.com
 descriptionUrl README.md
